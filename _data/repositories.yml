@@ -1,7 +1,9 @@
 github_users:
-  - ElaineYao
+  - torvalds
+  - alshedivat
 
 github_repos:
+  - alshedivat/al-folio
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
