@@ -27,3 +27,38 @@
       description:
         - Department of Electronic and Communication Engineering
         - GPA 3.96/4.0
+
+- title: Work experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: Dependable Systems Lab, University of British Columbia, Vancouver, Canada
+      year: 2021 - present
+      description:
+        - Advised by Karthik Pattabiraman
+  
+    - title: Teaching Assistant
+      institution: CPEN 333 - Software Engineering, University of British Columbia, Vancouver, Canada
+      year: 2021 - present
+    
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2020
+      items: 
+        - Outstanding Winner (0.2%) in COMAP Interdisciplinary Contest in Modeling
+        - Thanksgiving Scholarship for Modern Scientists (CAD 4000, 12 per school per year)
+        - National Scholarship (CAD 1600, for top 1.5% students per school)
+    - year: 2019
+      items: 
+        - National Second Prize (3%)  in China Undergraduate Mathematical Contest in Modeling
+    - year: 2018
+      items:
+        - Third Place in Microsoft Student Club Hackathon
+
+- title: Skills
+  type: list
+  contents:
+    - <u>Programming:</u> Python, Matlab, Bash, C++, Java, Verilog
+    - <u>Tools:</u> MATLAB&Simulink, ArduPilot, PX4, Gazebo, Linux, Git
