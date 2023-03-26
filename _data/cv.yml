@@ -60,5 +60,5 @@
 - title: Skills
   type: list
   contents:
-    - <u>Programming:</u> Python, Matlab, Bash, C++, Java, Verilog
-    - <u>Tools:</u> MATLAB&Simulink, ArduPilot, PX4, Gazebo, Linux, Git
+    - <u>Programming:</u> Python, C, C++, Bash, Java, Matlab
+    - <u>Tools:</u> ArduPilot, Linux, IDA Pro, Linux, Git
