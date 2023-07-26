@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hello, I am a second-year Master of Applied Science (MASc) student in Department of Electrical and Computer Engineering at the University of British Columbia. 
-I am advised by [Prof. Karthik Pattabiraman](https://blogs.ubc.ca/karthik/). 
+I am advised by [Prof. Karthik Pattabiraman](https://blogs.ubc.ca/karthik/). I'm also working with [Prof. Caroline Lemieux](https://www.carolemieux.com/) as a Research Assistant.
 I received my B.Eng from the University of Electronic Science and Technology of China in 2021. 
 
 My research interests broadly lie in the area of Cyber-physical systems security (e.g., drone swarms, drones, self-driving vehicles) and test-driven security. Currently, I am focusing on finding vulnerabilities in various systems via fuzz testing. 
