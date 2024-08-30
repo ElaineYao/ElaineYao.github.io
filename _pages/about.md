@@ -19,11 +19,11 @@ projects: true # includes a list course projects
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I am a second-year Master of Applied Science (MASc) student in Department of Electrical and Computer Engineering at the University of British Columbia. 
-I am advised by [Prof. Karthik Pattabiraman](https://blogs.ubc.ca/karthik/). I'm also working with [Prof. Caroline Lemieux](https://www.carolemieux.com/) as a Research Assistant.
-I received my B.Eng from the University of Electronic Science and Technology of China in 2021. 
+Hello, I am a PhD student in the [Department of Computer Science](https://www.cs.cornell.edu) at [Cornell University](https://www.cornell.edu). My research interests are the intersection of Software Engineering and Machine Learning.
 
-My research interests broadly lie in the area of Cyber-physical systems security (e.g., drone swarms, drones, self-driving vehicles) and test-driven security. Currently, I am focusing on finding vulnerabilities in various systems via fuzz testing. 
+I obtained my Master of Applied Science in [Department of Electrical and Computer Engineering](https://ece.ubc.ca) at the [University of British Columbia](https://www.ubc.ca) in 2024. I was advised by [Prof. Karthik Pattabiraman](https://blogs.ubc.ca/karthik/). I have also worked with [Prof. Caroline Lemieux](https://www.carolemieux.com/) as a Research Assistant. I received my B.Eng from [the University of Electronic Science and Technology of China](https://www.uestc.edu.cn) in 2021. Before joining Cornell, I was a Security Research at [Fortinet](https://www.fortinet.com).
+
+<!-- My research interests broadly lie in the area of Cyber-physical systems security (e.g., drone swarms, drones, self-driving vehicles) and test-driven security. Currently, I am focusing on finding vulnerabilities in various systems via fuzz testing.  -->
 
 <!-- **I am looking for a PhD position starting from 2023 fall or 2024 spring!** -->
 
