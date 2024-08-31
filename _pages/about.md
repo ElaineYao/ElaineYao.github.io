@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Dependable Systems Lab </p>
-    <p>2332 Main Mall</p>
-    <p>Vancouver, BC V6T1Z4, Canada</p>
+    <p>Gates Hall G33 </p>
+    <p>Cornell University</p>
+    <p>Ithaca, New York 14853, US</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, I am a PhD student in the [Department of Computer Science](https://www.cs.cornell.edu) at [Cornell University](https://www.cornell.edu). My research interests are the intersection of Software Engineering and Machine Learning.
 
-I obtained my Master of Applied Science in [Department of Electrical and Computer Engineering](https://ece.ubc.ca) at the [University of British Columbia](https://www.ubc.ca) in 2024. I was advised by [Prof. Karthik Pattabiraman](https://blogs.ubc.ca/karthik/). I have also worked with [Prof. Caroline Lemieux](https://www.carolemieux.com/) as a Research Assistant. I received my B.Eng from [the University of Electronic Science and Technology of China](https://www.uestc.edu.cn) in 2021. Before joining Cornell, I was a Security Research at [Fortinet](https://www.fortinet.com).
+I obtained my Master of Applied Science in [Department of Electrical and Computer Engineering](https://ece.ubc.ca) at the [University of British Columbia](https://www.ubc.ca) in 2024. I was advised by [Prof. Karthik Pattabiraman](https://blogs.ubc.ca/karthik/). I have also worked with [Prof. Caroline Lemieux](https://www.carolemieux.com/) as a Research Assistant. I received my B.Eng from [the University of Electronic Science and Technology of China](https://www.uestc.edu.cn) in 2021. Before joining Cornell, I was a Security Researcher at [Fortinet](https://www.fortinet.com).
 
 <!-- My research interests broadly lie in the area of Cyber-physical systems security (e.g., drone swarms, drones, self-driving vehicles) and test-driven security. Currently, I am focusing on finding vulnerabilities in various systems via fuzz testing.  -->
 
